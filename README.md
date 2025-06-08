@@ -1,0 +1,2 @@
+# Event-Study-The-Impact-of-Political-and-Economic-Events-on-KSE-100-Index-Pakistan-Stock-Exchange-
+This research investigates the influence of major political and economic events on stock market performance in Pakistan, with a focus on the KSE-100 Index. The study employs an event study methodology, analyzing Abnormal Returns (AR) and Cumulative Abnormal Returns (CAR) within a ±7-day event window to evaluate short-term market reactions.
